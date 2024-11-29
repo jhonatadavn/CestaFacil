@@ -1,0 +1,324 @@
+nov. 12, 2024 6:19:19 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: Gerando PDF do pedido: pdf/pedido_1.pdf
+nov. 12, 2024 6:19:20 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: PDF do pedido gerado com sucesso
+nov. 13, 2024 3:19:46 AM util.PDFGenerator gerarRelatorioEstoque
+INFORMAÇÕES: Gerando relatório de estoque: pdf/estoque_20241113_031946.pdf
+nov. 13, 2024 3:19:46 AM util.PDFGenerator gerarRelatorioEstoque
+INFORMAÇÕES: Relatório de estoque gerado com sucesso
+nov. 13, 2024 6:29:08 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: Gerando PDF do pedido: pdf/pedido_7.pdf
+nov. 13, 2024 6:29:09 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: PDF do pedido gerado com sucesso
+nov. 13, 2024 7:10:07 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: Gerando PDF do pedido: pdf/pedido_1.pdf
+nov. 13, 2024 7:10:07 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: PDF do pedido gerado com sucesso
+nov. 13, 2024 7:10:25 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: Gerando PDF do pedido: pdf/pedido_2.pdf
+nov. 13, 2024 7:10:25 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: PDF do pedido gerado com sucesso
+nov. 13, 2024 7:27:00 PM util.PDFGenerator gerarRelatorioEstoque
+INFORMAÇÕES: Gerando relatório de estoque: pdf/estoque_20241113_192700.pdf
+nov. 13, 2024 7:27:00 PM util.PDFGenerator gerarRelatorioEstoque
+INFORMAÇÕES: Relatório de estoque gerado com sucesso
+nov. 13, 2024 7:27:45 PM util.PDFGenerator gerarRelatorioEstoque
+INFORMAÇÕES: Gerando relatório de estoque: pdf/estoque_20241113_192745.pdf
+nov. 13, 2024 7:27:45 PM util.PDFGenerator gerarRelatorioEstoque
+INFORMAÇÕES: Relatório de estoque gerado com sucesso
+nov. 14, 2024 5:39:39 AM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: Gerando PDF do pedido: pdf/pedido_1.pdf
+nov. 14, 2024 5:39:39 AM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: PDF do pedido gerado com sucesso
+nov. 14, 2024 5:43:03 AM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: Gerando PDF do pedido: pdf/pedido_2.pdf
+nov. 14, 2024 5:43:03 AM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: PDF do pedido gerado com sucesso
+nov. 14, 2024 6:09:21 AM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: Gerando PDF do pedido: pdf/pedido_1.pdf
+nov. 14, 2024 6:09:21 AM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: PDF do pedido gerado com sucesso
+nov. 14, 2024 1:01:54 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: Gerando PDF do pedido: pdf/pedido_1.pdf
+nov. 14, 2024 1:01:54 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: PDF do pedido gerado com sucesso
+nov. 14, 2024 10:02:03 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: Gerando PDF do pedido: pdf/pedido_1.pdf
+nov. 14, 2024 10:02:03 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: PDF do pedido gerado com sucesso
+nov. 14, 2024 10:02:13 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: Gerando PDF do pedido: pdf/pedido_2.pdf
+nov. 14, 2024 10:02:13 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: PDF do pedido gerado com sucesso
+nov. 14, 2024 10:02:22 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: Gerando PDF do pedido: pdf/pedido_3.pdf
+nov. 14, 2024 10:02:22 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: PDF do pedido gerado com sucesso
+nov. 14, 2024 10:02:28 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: Gerando PDF do pedido: pdf/pedido_4.pdf
+nov. 14, 2024 10:02:28 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: PDF do pedido gerado com sucesso
+nov. 14, 2024 10:02:34 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: Gerando PDF do pedido: pdf/pedido_5.pdf
+nov. 14, 2024 10:02:34 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: PDF do pedido gerado com sucesso
+nov. 14, 2024 10:02:44 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: Gerando PDF do pedido: pdf/pedido_6.pdf
+nov. 14, 2024 10:02:44 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: PDF do pedido gerado com sucesso
+nov. 14, 2024 10:02:51 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: Gerando PDF do pedido: pdf/pedido_7.pdf
+nov. 14, 2024 10:02:51 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: PDF do pedido gerado com sucesso
+nov. 14, 2024 10:02:56 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: Gerando PDF do pedido: pdf/pedido_8.pdf
+nov. 14, 2024 10:02:56 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: PDF do pedido gerado com sucesso
+nov. 14, 2024 10:03:01 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: Gerando PDF do pedido: pdf/pedido_9.pdf
+nov. 14, 2024 10:03:01 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: PDF do pedido gerado com sucesso
+nov. 14, 2024 10:03:06 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: Gerando PDF do pedido: pdf/pedido_10.pdf
+nov. 14, 2024 10:03:06 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: PDF do pedido gerado com sucesso
+nov. 14, 2024 10:03:10 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: Gerando PDF do pedido: pdf/pedido_11.pdf
+nov. 14, 2024 10:03:10 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: PDF do pedido gerado com sucesso
+nov. 14, 2024 10:03:26 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: Gerando PDF do pedido: pdf/pedido_12.pdf
+nov. 14, 2024 10:03:26 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: PDF do pedido gerado com sucesso
+nov. 14, 2024 10:03:30 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: Gerando PDF do pedido: pdf/pedido_13.pdf
+nov. 14, 2024 10:03:30 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: PDF do pedido gerado com sucesso
+nov. 14, 2024 10:03:35 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: Gerando PDF do pedido: pdf/pedido_14.pdf
+nov. 14, 2024 10:03:35 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: PDF do pedido gerado com sucesso
+nov. 14, 2024 10:03:40 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: Gerando PDF do pedido: pdf/pedido_15.pdf
+nov. 14, 2024 10:03:40 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: PDF do pedido gerado com sucesso
+nov. 14, 2024 10:03:45 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: Gerando PDF do pedido: pdf/pedido_16.pdf
+nov. 14, 2024 10:03:45 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: PDF do pedido gerado com sucesso
+nov. 14, 2024 10:03:50 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: Gerando PDF do pedido: pdf/pedido_17.pdf
+nov. 14, 2024 10:03:50 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: PDF do pedido gerado com sucesso
+nov. 14, 2024 10:03:54 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: Gerando PDF do pedido: pdf/pedido_18.pdf
+nov. 14, 2024 10:03:54 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: PDF do pedido gerado com sucesso
+nov. 14, 2024 10:03:59 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: Gerando PDF do pedido: pdf/pedido_19.pdf
+nov. 14, 2024 10:03:59 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: PDF do pedido gerado com sucesso
+nov. 14, 2024 10:04:05 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: Gerando PDF do pedido: pdf/pedido_20.pdf
+nov. 14, 2024 10:04:05 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: PDF do pedido gerado com sucesso
+nov. 14, 2024 10:04:10 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: Gerando PDF do pedido: pdf/pedido_21.pdf
+nov. 14, 2024 10:04:10 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: PDF do pedido gerado com sucesso
+nov. 14, 2024 10:04:16 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: Gerando PDF do pedido: pdf/pedido_22.pdf
+nov. 14, 2024 10:04:16 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: PDF do pedido gerado com sucesso
+nov. 14, 2024 10:04:21 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: Gerando PDF do pedido: pdf/pedido_23.pdf
+nov. 14, 2024 10:04:21 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: PDF do pedido gerado com sucesso
+nov. 14, 2024 10:04:27 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: Gerando PDF do pedido: pdf/pedido_24.pdf
+nov. 14, 2024 10:04:27 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: PDF do pedido gerado com sucesso
+nov. 14, 2024 10:04:32 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: Gerando PDF do pedido: pdf/pedido_25.pdf
+nov. 14, 2024 10:04:32 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: PDF do pedido gerado com sucesso
+nov. 14, 2024 10:04:37 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: Gerando PDF do pedido: pdf/pedido_26.pdf
+nov. 14, 2024 10:04:37 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: PDF do pedido gerado com sucesso
+nov. 14, 2024 10:04:42 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: Gerando PDF do pedido: pdf/pedido_27.pdf
+nov. 14, 2024 10:04:42 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: PDF do pedido gerado com sucesso
+nov. 14, 2024 10:04:47 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: Gerando PDF do pedido: pdf/pedido_28.pdf
+nov. 14, 2024 10:04:47 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: PDF do pedido gerado com sucesso
+nov. 14, 2024 10:04:51 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: Gerando PDF do pedido: pdf/pedido_29.pdf
+nov. 14, 2024 10:04:51 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: PDF do pedido gerado com sucesso
+nov. 14, 2024 10:04:56 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: Gerando PDF do pedido: pdf/pedido_30.pdf
+nov. 14, 2024 10:04:56 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: PDF do pedido gerado com sucesso
+nov. 14, 2024 10:05:01 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: Gerando PDF do pedido: pdf/pedido_31.pdf
+nov. 14, 2024 10:05:01 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: PDF do pedido gerado com sucesso
+nov. 14, 2024 10:05:05 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: Gerando PDF do pedido: pdf/pedido_32.pdf
+nov. 14, 2024 10:05:05 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: PDF do pedido gerado com sucesso
+nov. 14, 2024 10:05:10 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: Gerando PDF do pedido: pdf/pedido_33.pdf
+nov. 14, 2024 10:05:10 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: PDF do pedido gerado com sucesso
+nov. 14, 2024 10:05:14 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: Gerando PDF do pedido: pdf/pedido_34.pdf
+nov. 14, 2024 10:05:14 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: PDF do pedido gerado com sucesso
+nov. 14, 2024 10:05:19 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: Gerando PDF do pedido: pdf/pedido_35.pdf
+nov. 14, 2024 10:05:19 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: PDF do pedido gerado com sucesso
+nov. 14, 2024 10:05:27 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: Gerando PDF do pedido: pdf/pedido_36.pdf
+nov. 14, 2024 10:05:27 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: PDF do pedido gerado com sucesso
+nov. 14, 2024 10:05:42 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: Gerando PDF do pedido: pdf/pedido_37.pdf
+nov. 14, 2024 10:05:42 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: PDF do pedido gerado com sucesso
+nov. 14, 2024 10:05:47 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: Gerando PDF do pedido: pdf/pedido_38.pdf
+nov. 14, 2024 10:05:47 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: PDF do pedido gerado com sucesso
+nov. 14, 2024 10:05:52 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: Gerando PDF do pedido: pdf/pedido_39.pdf
+nov. 14, 2024 10:05:52 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: PDF do pedido gerado com sucesso
+nov. 14, 2024 10:05:58 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: Gerando PDF do pedido: pdf/pedido_40.pdf
+nov. 14, 2024 10:05:58 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: PDF do pedido gerado com sucesso
+nov. 14, 2024 10:06:18 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: Gerando PDF do pedido: pdf/pedido_41.pdf
+nov. 14, 2024 10:06:18 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: PDF do pedido gerado com sucesso
+nov. 14, 2024 10:06:30 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: Gerando PDF do pedido: pdf/pedido_42.pdf
+nov. 14, 2024 10:06:30 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: PDF do pedido gerado com sucesso
+nov. 14, 2024 11:53:21 PM util.PDFGenerator gerarRelatorioEstoque
+INFORMAÇÕES: Gerando relatório de estoque: pdf/estoque_20241114_235321.pdf
+nov. 14, 2024 11:53:22 PM util.PDFGenerator gerarRelatorioEstoque
+INFORMAÇÕES: Relatório de estoque gerado com sucesso
+nov. 15, 2024 12:57:30 AM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: Gerando PDF do pedido: pdf/pedido_43.pdf
+nov. 15, 2024 12:57:30 AM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: PDF do pedido gerado com sucesso
+nov. 16, 2024 4:10:17 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: Gerando PDF do pedido: pdf/pedido_44.pdf
+nov. 16, 2024 4:10:18 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: PDF do pedido gerado com sucesso
+nov. 16, 2024 7:52:43 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: Gerando PDF do pedido: pdf/pedido_2.pdf
+nov. 16, 2024 7:52:43 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: PDF do pedido gerado com sucesso
+nov. 17, 2024 10:50:34 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: Gerando PDF do pedido: pdf/pedido_22.pdf
+nov. 17, 2024 10:50:34 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: PDF do pedido gerado com sucesso
+nov. 17, 2024 10:51:11 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: Gerando PDF do pedido: pdf/pedido_23.pdf
+nov. 17, 2024 10:51:11 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: PDF do pedido gerado com sucesso
+nov. 17, 2024 10:51:33 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: Gerando PDF do pedido: pdf/pedido_24.pdf
+nov. 17, 2024 10:51:33 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: PDF do pedido gerado com sucesso
+nov. 17, 2024 11:01:39 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: Gerando PDF do pedido: pdf/pedido_1.pdf
+nov. 17, 2024 11:01:39 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: PDF do pedido gerado com sucesso
+nov. 19, 2024 11:13:26 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: Gerando PDF do pedido: pdf/pedido_2.pdf
+nov. 19, 2024 11:13:27 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: PDF do pedido gerado com sucesso
+nov. 20, 2024 12:18:59 AM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: Gerando PDF do pedido: pdf/pedido_3.pdf
+nov. 20, 2024 12:18:59 AM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: PDF do pedido gerado com sucesso
+nov. 20, 2024 12:25:09 AM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: Gerando PDF do pedido: pdf/pedido_4.pdf
+nov. 20, 2024 12:25:10 AM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: PDF do pedido gerado com sucesso
+nov. 20, 2024 12:31:12 AM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: Gerando PDF do pedido: pdf/pedido_5.pdf
+nov. 20, 2024 12:31:12 AM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: PDF do pedido gerado com sucesso
+nov. 20, 2024 2:24:46 AM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: Gerando PDF do pedido: pdf/pedido_1.pdf
+nov. 20, 2024 2:24:47 AM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: PDF do pedido gerado com sucesso
+nov. 20, 2024 3:02:56 AM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: Gerando PDF do pedido: pdf/pedido_2.pdf
+nov. 20, 2024 3:02:56 AM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: PDF do pedido gerado com sucesso
+nov. 20, 2024 3:31:00 AM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: Gerando PDF do pedido: pdf/pedido_3.pdf
+nov. 20, 2024 3:31:00 AM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: PDF do pedido gerado com sucesso
+nov. 20, 2024 4:02:11 AM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: Gerando PDF do pedido: pdf/pedido_4.pdf
+nov. 20, 2024 4:02:11 AM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: PDF do pedido gerado com sucesso
+nov. 20, 2024 4:02:49 AM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: Gerando PDF do pedido: pdf/pedido_5.pdf
+nov. 20, 2024 4:02:49 AM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: PDF do pedido gerado com sucesso
+nov. 20, 2024 2:55:58 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: Gerando PDF do pedido: pdf/pedido_6.pdf
+nov. 20, 2024 2:55:59 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: PDF do pedido gerado com sucesso
+nov. 20, 2024 2:58:37 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: Gerando PDF do pedido: pdf/pedido_7.pdf
+nov. 20, 2024 2:58:38 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: PDF do pedido gerado com sucesso
+nov. 20, 2024 3:18:04 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: Gerando PDF do pedido: pdf/pedido_8.pdf
+nov. 20, 2024 3:18:04 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: PDF do pedido gerado com sucesso
+nov. 20, 2024 4:14:09 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: Gerando PDF do pedido: pdf/pedido_9.pdf
+nov. 20, 2024 4:14:10 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: PDF do pedido gerado com sucesso
+nov. 20, 2024 4:14:23 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: Gerando PDF do pedido: pdf/pedido_10.pdf
+nov. 20, 2024 4:14:23 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: PDF do pedido gerado com sucesso
+nov. 20, 2024 4:37:30 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: Gerando PDF do pedido: pdf/pedido_44.pdf
+nov. 20, 2024 4:37:30 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: PDF do pedido gerado com sucesso
+nov. 20, 2024 5:00:13 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: Gerando PDF do pedido: pdf/pedido_3.pdf
+nov. 20, 2024 5:00:13 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: PDF do pedido gerado com sucesso
+nov. 20, 2024 5:02:38 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: Gerando PDF do pedido: pdf/pedido_1.pdf
+nov. 20, 2024 5:02:38 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: PDF do pedido gerado com sucesso
+nov. 21, 2024 3:42:57 AM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: Gerando PDF do pedido: pdf/pedido_2.pdf
+nov. 21, 2024 3:42:57 AM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: PDF do pedido gerado com sucesso
+nov. 21, 2024 3:54:24 AM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: Gerando PDF do pedido: pdf/pedido_3.pdf
+nov. 21, 2024 3:54:24 AM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: PDF do pedido gerado com sucesso
+nov. 21, 2024 8:38:23 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: Gerando PDF do pedido: pdf/pedido_4.pdf
+nov. 21, 2024 8:38:23 PM util.PDFGenerator gerarRelatorioPedido
+INFORMAÇÕES: PDF do pedido gerado com sucesso

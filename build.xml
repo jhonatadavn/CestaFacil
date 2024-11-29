@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="CestaFacil" default="run" basedir=".">
+    <!-- Propriedades do projeto -->
+    <property name="src.dir" location="src"/>
+    <property name="build.dir" location="build"/>
+    <property name="dist.dir" location="dist"/>
+    <property name="lib.dir" location="lib"/>
+    <property name="resources.dir" location="src/resources"/>
+    <property name="data.dir" location="data"/>
+    <property name="logs.dir" location="logs"/>
+    <property name="pdf.dir" location="pdf"/>
+    <property name="backup.dir" location="backup"/>
+    <property name="main.class" value="view.InterfaceUsuario"/>
+    <property name="version" value="1.0.0"/>
+    
+    <!-- Classpath para compilação e execução -->
+    <path id="classpath">
+        <fileset dir="${lib.dir}">
+            <include name="**/*.jar"/>
+        </fileset>
+    </path>
+
+    <!-- Inicialização -->
+    <target name="init">
+        <mkdir dir="${build.dir}"/>
+        <mkdir dir="${dist.dir}"/>
+        <mkdir dir="${lib.dir}"/>
+        <mkdir dir="${data.dir}"/>
+        <mkdir dir="${logs.dir}"/>
+        <mkdir dir="${pdf.dir}"/>
+        <mkdir dir="${backup.dir}"/>
+        
+        <!-- Criar estrutura de recursos -->
+        <mkdir dir="${resources.dir}"/>
+        <mkdir dir="${resources.dir}/images"/>
+    </target>
+
+    <!-- Limpeza -->
+    <target name="clean">
+        <delete dir="${build.dir}"/>
+        <delete dir="${dist.dir}"/>
+    </target>
+
+    <!-- Compilação -->
+    <target name="compile" depends="init">
+        <javac srcdir="${src.dir}" 
+               destdir="${build.dir}" 
+               includeantruntime="false" 
+               debug="true" 
+               encoding="UTF-8">
+            <classpath refid="classpath"/>
+        </javac>
+        
+        <!-- Copiar recursos -->
+        <copy todir="${build.dir}/resources">
+            <fileset dir="${resources.dir}"/>
+        </copy>
+    </target>
+
+    <!-- Criação do JAR -->
+    <target name="jar" depends="compile">
+        <jar destfile="${dist.dir}/${ant.project.name}.jar">
+            <manifest>
+                <attribute name="Main-Class" value="${main.class}"/>
+                <attribute name="Class-Path" value=". lib/itextpdf-5.5.13.3.jar lib/sqlite-jdbc-3.42.0.0.jar"/>
+                <attribute name="Implementation-Title" value="CestaFácil"/>
+                <attribute name="Implementation-Version" value="${version}"/>
+                <attribute name="Built-By" value="${user.name}"/>
+            </manifest>
+            <fileset dir="${build.dir}"/>
+        </jar>
+        
+        <!-- Copiar dependências e recursos -->
+        <copy todir="${dist.dir}/lib">
+            <fileset dir="${lib.dir}"/>
+        </copy>
+        
+        <!-- Criar diretórios necessários -->
+        <mkdir dir="${dist.dir}/data"/>
+        <mkdir dir="${dist.dir}/logs"/>
+        <mkdir dir="${dist.dir}/pdf"/>
+        <mkdir dir="${dist.dir}/backup"/>
+    </target>
+
+    <!-- Execução -->
+    <target name="run" depends="jar">
+        <java classname="${main.class}" fork="true">
+            <classpath>
+                <path refid="classpath"/>
+                <pathelement location="${dist.dir}/${ant.project.name}.jar"/>
+            </classpath>
+            <jvmarg value="-Dfile.encoding=UTF-8"/>
+        </java>
+    </target>
+
+    <!-- Reconstrução completa -->
+    <target name="rebuild" depends="clean,run" 
+            description="Limpa e reconstrói o projeto completamente"/>
+</project>

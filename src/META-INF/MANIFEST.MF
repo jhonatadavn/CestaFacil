@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Main-Class: view.InterfaceUsuario
+Name: CestaFacil
+Specification-Title: CestaFacil
+Specification-Version: 1.0.0
+Implementation-Title: CestaFacil
+Implementation-Version: 1.0.0
+Class-Path: lib/itextpdf-5.5.13.3.jar lib/sqlite-jdbc-3.42.0.0.jar

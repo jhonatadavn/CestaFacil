@@ -1,0 +1,10 @@
+nov. 13, 2024 7:08:25 PM view.PainelProdutos adicionarProduto
+INFORMAÇÕES: Produto adicionado com sucesso: 1
+nov. 13, 2024 7:08:49 PM view.PainelProdutos adicionarProduto
+INFORMAÇÕES: Produto adicionado com sucesso: 2
+nov. 14, 2024 12:42:08 PM view.PainelProdutos adicionarProduto
+GRAVE: Erro ao adicionar produto: Categoria inválida. Use 'ALIMENTO' ou 'LIMPEZA'
+nov. 14, 2024 12:43:07 PM view.PainelProdutos adicionarProduto
+GRAVE: Erro ao adicionar produto: Erro ao adicionar produto: [SQLITE_CONSTRAINT_CHECK] A CHECK constraint failed (CHECK constraint failed: categoria IN ('ALIMENTO', 'LIMPEZA'))
+nov. 14, 2024 3:46:07 PM view.PainelProdutos adicionarProduto
+INFORMAÇÕES: Produto adicionado com sucesso: 5
