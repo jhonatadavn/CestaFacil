@@ -2439,3 +2439,11 @@ nov. 28, 2024 9:24:54 PM view.InterfaceUsuario <init>
 INFORMAÇÕES: Sistema iniciado com sucesso
 nov. 28, 2024 9:25:01 PM view.InterfaceUsuario confirmarSaida
 INFORMAÇÕES: Encerrando aplicação
+nov. 28, 2024 10:07:58 PM view.InterfaceUsuario criarEstruturaDiretorios
+INFORMAÇÕES: Estrutura de diretórios verificada com sucesso
+nov. 28, 2024 10:07:58 PM view.InterfaceUsuario inicializarGerenciadores
+INFORMAÇÕES: Gerenciadores inicializados com sucesso
+nov. 28, 2024 10:08:00 PM view.InterfaceUsuario <init>
+INFORMAÇÕES: Sistema iniciado com sucesso
+nov. 28, 2024 10:08:02 PM view.InterfaceUsuario confirmarSaida
+INFORMAÇÕES: Encerrando aplicação
